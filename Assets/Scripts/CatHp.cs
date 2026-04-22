@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 public class CatHp : MonoBehaviour
 {
-    [SerializeField] private float hp = 100;
+    public float hp = 100;
     private float maxHP = 100;
     [SerializeField] private HpBar hpBar;
     [SerializeField] private GameObject DeadOverlay;
