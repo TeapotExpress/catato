@@ -44,7 +44,7 @@ I was the primary programmer on this project, responsible for:
 
 ## What I'd Do Differently
 
-This was an very early project. Looking back, I'd restructure it with:
+This was a very early project. Looking back, I'd restructure it with:
 
 - A base `Enemy` class with shared HP/death logic, extended per enemy type
 - An `IDamageable` interface to decouple damage sources from targets
@@ -68,7 +68,7 @@ This was an very early project. Looking back, I'd restructure it with:
 
 **OR**
 1. Clone the repository
-2. Open in Unity Hub (Unity 6 / 2022 LTS)
+2. Open in Unity Hub (Unity 2022.3.49f1)
 3. Open the main scene and hit Play
 
 > ⚠️ Some weapon types are present in code but not fully integrated into the playable build.
