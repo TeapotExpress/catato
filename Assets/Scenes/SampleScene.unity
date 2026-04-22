@@ -7272,7 +7272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c6c859e2512443b2af7e055867771b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  expirience: 0
+  experience: 0
   expNeeded: 5
   overallExp: 0
   progress: {fileID: 1139245355}
@@ -7280,7 +7280,7 @@ MonoBehaviour:
   dmg: 1
   rel: 1
   speed: 1
-  d: {fileID: 1030043246}
+  levelUpPanel: {fileID: 1030043246}
 --- !u!114 &720893581
 MonoBehaviour:
   m_ObjectHideFlags: 0
