@@ -4,7 +4,7 @@ A survival shooter inspired by **Brotato**, built in Unity as a 2-week academic 
 
 The player fights through endless waves of enemies, collecting XP to level up and allocate stats — with the goal of surviving as long as possible.
 
-▶️ [Play in browser on itch.io](https://teapotexpress.itch.io/catato) — best experienced in fullscreen
+▶️ [Play in browser on itch.io](https://teapotexpress.itch.io/catato) — best experienced in fullscreen due to static resolution
 
 ---
 
@@ -23,7 +23,7 @@ The player fights through endless waves of enemies, collecting XP to level up an
 
 ## My Contributions
 
-I was the primary programmer on this project, responsible for:
+I was one of two programmers on this project, responsible for:
 
 **Progression & RPG systems**
 - XP collection and level threshold logic (`CatExp.cs`)
@@ -64,7 +64,7 @@ This was a very early project. Looking back, I'd restructure it with:
 
 ## Running the Project
 
-▶️ [Play in browser on itch.io](https://teapotexpress.itch.io/catato) — best experienced in fullscreen
+▶️ [Play in browser on itch.io](https://teapotexpress.itch.io/catato) — best experienced in fullscreen due to static resolution
 
 **OR**
 1. Clone the repository
